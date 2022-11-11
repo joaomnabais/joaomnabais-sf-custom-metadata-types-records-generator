@@ -1,0 +1,17 @@
+{
+  "name": "sf-custom-metadata-types-records-generator",
+  "author": {
+    "name": "João Nabais",
+    "email": "joao.nabais017@gmail.com",
+    "url": "https://pt.linkedin.com/in/joaomnabais"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "csv": "^6.2.1"
+  }
+}

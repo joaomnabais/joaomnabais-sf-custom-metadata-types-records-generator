@@ -1,0 +1,3 @@
+﻿Label;Custom_Text_Field__c;Custom_Number_Field__c;Custom_Checkbox_Field__c;Custom_Date_Field__c
+;"xsi:type=""xsd:string""";"xsi:type=""xsd:double""";"xsi:type=""xsd:boolean""";"xsi:type=""xsd:date"""
+Example Record Label;String Example;10.0;true;2022-11-10
